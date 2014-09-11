@@ -684,7 +684,7 @@ unsigned char jtag_finder_id_method()
 // Descr:    This function attempts to identify the 4 jtag signals of a target
 //           device with the assumption that resetting the jtag state machine
 //           selects the jtag bypass mode. The bypass register is then clocked,
-//           out, read and analyzed to determine if a there is a once clock delay
+//           out, read and analyzed to determine if a there is a one clock delay
 //           in the tdi/tdo path.
 // Globals:  tck, tms, tdo and tdi global variables corresponding to the pins.
 // Params:   none
