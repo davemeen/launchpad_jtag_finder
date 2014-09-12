@@ -50,6 +50,7 @@
 //           Refer to TI documentation for further information.
 //
 // Notes:
+//           Copyright (C) 2014, Leidos Inc. All rights reserved.
 /*----------------------------------------------------------------------------*/
 
 // See pins_energia.h for chip definitions.
